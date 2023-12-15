@@ -6,8 +6,8 @@
 - Prisma
 - Redux
 - Jest
-
+  <br/>
 - Next auth
 - Supabase
-
+  <br/>
 - chadcn ui
