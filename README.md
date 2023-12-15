@@ -3,6 +3,7 @@
 - Tailwind CSS
 - Prisma
 - Redux
+- Jest
 
 - Next auth
 - Supabase
