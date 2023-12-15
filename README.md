@@ -1,3 +1,5 @@
+### Technologies
+
 - Next.js
 - Typescript
 - Tailwind CSS
